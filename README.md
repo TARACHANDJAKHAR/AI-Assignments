@@ -8,12 +8,16 @@ Each assignment includes well-documented code and explanations for better unders
 │── 📂 Assignment-1  
 │   ├── Ques_1
 │   ├── Ques_2  
+|
 │── 📂 Assignment-2  
 │   ├── Ques_1 
 │   ├── Ques_2  
+|
 │── 📂 Assignment-N  
 │   ├── 📜 ...  
+|
 │── 📜 README.md  
+|
 │── 📜 LICENSE  
 
 🛠️ Requirements
